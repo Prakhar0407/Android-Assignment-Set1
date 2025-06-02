@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "description": "A comprehensive guide to programming in Java.",
+    "rating": 4.8,
+    "thumbnail": "placeholder"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "description": "A Handbook of Agile Software Craftsmanship.",
+    "rating": 4.7,
+    "thumbnail": "placeholder"
+  }
+]
